@@ -10,3 +10,5 @@ The parameters which can be adjusted is in the head of "main.cpp", details are a
 	const int MUTATION_PROB = 0.3;
 
 After running, an output file named "output.exe" will be generated, the results will be listed in the file.
+
+There are two example results in ./output.
